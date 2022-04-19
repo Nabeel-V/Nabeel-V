@@ -14,25 +14,6 @@
 
 ![](https://visitor-badge.glitch.me/badge?page_id=Nabeel-V.Nabeel-V)
 
-<br />
-
-
-### Hi 🙋‍♂️,
-
-  * I'm 20 years old Self-taught Web-developer from India.
-  * To become a Full stack Web-Developer
-
-
-
-### 🌱 Goals for 2021
-
-  * Get pro knowledge in React Js.
-  * Build 30+ projects.
-  * Contribute to Open Source.
-
-<br />
-
-
 ### 👨‍💻 Languages ...
 <br/>
 
@@ -57,9 +38,6 @@
 
 <p align="center">
   <img alt="React" width="40px" height="40px" src="https://cdn.freebiesupply.com/logos/large/2x/react-1-logo-svg-vector.svg" />
-  <img alt="Django" width="40px" height="40px" src="https://upload.wikimedia.org/wikipedia/de/thumb/0/0e/Django-logo.svg/800px-Django-logo.svg.png" />
-  <img alt="NodeJS" width="40px" height="40px" src="https://f0.pngfuel.com/png/306/37/node-js-logo-png-clip-art.png" />
-  <img alt="Bootstrap" width="40px" height="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/1200px-Bootstrap_logo.svg.png" />
  </p>
  
  ### 👨‍💻  Tools ...
